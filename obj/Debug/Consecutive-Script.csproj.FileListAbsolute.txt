@@ -1,0 +1,7 @@
+C:\Users\adjse\source\repos\Consecutive-Script\Consecutive-Script\obj\Debug\Consecutive-Script.csproj.AssemblyReference.cache
+C:\Users\adjse\source\repos\Consecutive-Script\Consecutive-Script\obj\Debug\Consecutive-Script.csproj.CoreCompileInputs.cache
+C:\Users\adjse\source\repos\Consecutive-Script\Consecutive-Script\bin\Debug\Consecutive-Script.exe.config
+C:\Users\adjse\source\repos\Consecutive-Script\Consecutive-Script\bin\Debug\Consecutive-Script.exe
+C:\Users\adjse\source\repos\Consecutive-Script\Consecutive-Script\bin\Debug\Consecutive-Script.pdb
+C:\Users\adjse\source\repos\Consecutive-Script\Consecutive-Script\obj\Debug\Consecutive-Script.exe
+C:\Users\adjse\source\repos\Consecutive-Script\Consecutive-Script\obj\Debug\Consecutive-Script.pdb
